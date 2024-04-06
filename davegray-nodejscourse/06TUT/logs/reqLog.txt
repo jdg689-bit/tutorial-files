@@ -1,0 +1,3 @@
+20240329	11:02:18	f68713bf-e926-4b15-8ad3-5c90f96f6d3c	/new-page.html	GET
+20240329	11:02:18	ad399b2b-8285-4cd4-9344-a27d813a5125	/images/apple.jpg	GET
+20240329	11:02:18	4f5bffe7-265d-4f56-b362-6adef4be6881	/favicon.ico	GET
